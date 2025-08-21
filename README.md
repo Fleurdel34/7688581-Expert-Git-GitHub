@@ -12,6 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 Avoir un éditeur de code et un compte Github
+pré-requis nécessaire: dépend du projet.
 
 ```
 
