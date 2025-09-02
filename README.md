@@ -15,7 +15,6 @@ Avoir un éditeur de code et un compte Github
 pré-requis nécessaire: dépend du projet.
 
 
-
 ### Installation
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
